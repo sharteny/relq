@@ -1,0 +1,5 @@
+Jan 28 12:01:15 kali sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 51432 ssh2
+Jan 28 12:01:20 kali sshd[1023]: Failed password for root from 192.168.1.10 port 51435 ssh2
+Jan 28 12:01:30 kali sshd[1045]: Accepted password for kali from 192.168.1.5 port 51500 ssh2
+Jan 28 12:02:01 kali sudo: kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/apt update
+Jan 28 12:03:45 kali sshd[1100]: Failed password for invalid user test from 10.0.0.8 port 60022 ssh2
