@@ -13,4 +13,4 @@ for word in words:
         if r.status_code in [200, 301, 302, 403]:
             print(f"[+] {url}-> {r.status_code}")
     except requests.exceptions.RequestException:
-        print(f"[-]  Errir connecting to  {url}")
+        print(f"[-]  Error connecting to  {url}")
